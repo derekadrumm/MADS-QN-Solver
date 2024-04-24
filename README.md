@@ -1,7 +1,7 @@
 # MADS-QN-Solver:
 Use the MADS-QN algorithm to minimize a nonlinear function subject to constraints.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 This code will solve a nonlinear, constrained optimization problem of the form
 
 "minimize f(x) for x in Omega"
@@ -13,7 +13,7 @@ c(x) < 0 for x in Omega
 where c(x) is a linear or nonlinear constraint.
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 # Sources:
 [1] "Audet. Derivative-Free and Blackbox Optimization. 2017."
 
