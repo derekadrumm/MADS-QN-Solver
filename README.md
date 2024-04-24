@@ -16,6 +16,8 @@ where c(x) is a linear or nonlinear constraint.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Sources:
 [1] "Audet. Derivative-Free and Blackbox Optimization. 2017."
+
 [2] "Dennis and Schnabel. Numerical methods for unconstrained
      optimization and nonlinear equations. 1983"
+     
 [3] "Zhaou and Zhu. Injectivity of NURBS curves. 2015."
